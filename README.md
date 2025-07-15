@@ -74,7 +74,7 @@
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **AI Snake Game** | Trained a reinforcement learning agent with DQN to play Snake with a ~300% score boost. | PyTorch, CUDA, Pygame, Anaconda | [GitHub](https://github.com/your-repo) |
-| **Advanced Tic-Tac-Toe App** | Flutter mobile app with AI opponent, custom animations, and responsive UI. | Flutter, Dart, Android Studio | [GitHub]([https://github.com/your-repo](https://github.com/ghodketejas/advanced_tic_tac_toe)) |
+| **Advanced Tic-Tac-Toe App** | Flutter mobile app with AI opponent, custom animations, and responsive UI. | Flutter, Dart, Android Studio | [GitHub](https://github.com/ghodketejas/advanced_tic_tac_toe) |
 
 ---
 
