@@ -65,6 +65,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghodketejas&show_icons=true&theme=radical" alt="Tejas's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghodketejas&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghodketejas&layout=compact&langs_count=5&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
