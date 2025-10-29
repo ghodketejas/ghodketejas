@@ -15,11 +15,11 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd Year Computer Science Major at University of Cincinnati (Graduating May 2027)
-- 💼 Open for Software Development or AI/ML Co-op roles for **Fall 2025**
+- 🎓 4th Year Computer Science Major at University of Cincinnati (Graduating May 2027)
+- 💼 Open for Software Development or AI/ML Co-op roles for **Spring 26 and Summer 26**
 - 🌱 Currently learning: Reinforcement Learning, Flutter, Full-Stack Web Development, Secure Web Apps
 - 🧠 Passionate about Python, ethical hacking, and AI agents
-- 🏆 Dean’s List: Summer '23, Fall '23, Summer '24, Fall '24
+- 🏆 Dean’s List: Summer '23, Fall '23, Summer '24, Fall '24, Summer '25
 - 🔎 Recently completed a Python NLP internship and multiple AI/Web security projects
 
 ---
