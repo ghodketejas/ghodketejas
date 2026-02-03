@@ -95,7 +95,7 @@
 
 ## 💼 Experience
 
-### Software Engineering Intern | Meta Mind International
+### Software Engineer Intern | Meta Mind International
 **September 2025 – January 2026** | Mumbai, India
 
 - Architected and delivered a full-stack commerce and loyalty platform using Next.js (React + TypeScript) and Python (FastAPI), supporting 20+ product attributes, multiple pricing currencies, and 5+ product state transitions
