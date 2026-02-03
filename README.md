@@ -160,14 +160,4 @@
 
 ---
 
-## ⚡ Fun Facts
-
-- 🧩 I enjoy solving logic puzzles and coding challenges
-- 🌍 I speak English, Hindi, and Marathi
-- 🎮 I love experimenting with RL models and optimizing performance using GPUs
-- 🎮 I love gaming (all genres - from sports to fighting games)
-- 🥋 I am a black belt in Karate
-
----
-
-<!-- Thanks for visiting! Let’s connect and collaborate! -->
+<!-- Thanks for visiting! Let's connect and collaborate! -->
